@@ -1,5 +1,5 @@
 # HOSPITALITY-ANALYSIS
-This project is as a part of my Intership Program provided by the Excelr Institude
+This project is done by me and my team as a part of my Intership Program provided by the Excelr Institude
 The KPIs expected to show here are listed as follow:
 1.Total Revenue
 2.Occupancy 
